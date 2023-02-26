@@ -1,0 +1,10 @@
+/*Base Style for movies row*/
+.movies_row{
+    transition: background-color  0.5s ease;
+}
+/*Hover Effect on movies rows */
+.movies_row:hover{
+    background-color: #313030;
+    cursor: pointer;
+    color: white;
+}

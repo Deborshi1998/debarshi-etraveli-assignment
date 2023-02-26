@@ -1,0 +1,1 @@
+export const movieUrl = "https://swapi.dev/api/films/?format=json";
